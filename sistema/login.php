@@ -191,9 +191,9 @@ if (isset($_SESSION['cliente_id'])) {
 
         <div class="info-message" style="margin-top: 20px; margin-bottom: 0;">
             <small>Para fins de demonstração, use:<br>
-            <strong>Email:</strong> admin@loja.com | <strong>Senha:</strong> admin123<br>
+            <strong>Email:</strong> admin@loja.com | <strong>Senha:</strong> 1234 <br>
             ou<br>
-            <strong>Email:</strong> cliente@loja.com | <strong>Senha:</strong> cliente123
+            <strong>Email:</strong> cliente@loja.com | <strong>Senha:</strong> 1234
             </small>
         </div>
     </div>
